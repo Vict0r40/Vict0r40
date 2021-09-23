@@ -10,9 +10,9 @@
   <img align="right" alt="Victor-yoda" width="120" src="https://cdn.discordapp.com/attachments/699755747860545576/890076027651510282/kyu-perfil2.png">
 </div>
   
-  ##
+   ##
  
-<div> 
+<div>
   <a href="https://instagram.com/nevesfg" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/Ra9Yt2XAKX" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">  
 </div>
